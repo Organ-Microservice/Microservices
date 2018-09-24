@@ -11,6 +11,6 @@
 ------
 
 ### surveys摘要
-[Migrating towards Microservice Architectures: an Industrial Survey]: /survey_1
+[Migrating towards Microservice Architectures: an Industrial Survey]: /survey_1.md
 
 * ICSA_2018: [Migrating towards Microservice Architectures: an Industrial Survey]
