@@ -1,4 +1,4 @@
-# Migrating towards Microservice Architectures: an Industrial Survey
+Migrating towards Microservice Architectures: an Industrial Survey
 
 
 In Section II  we describe the migration model for MSA we used throughout the study. 
