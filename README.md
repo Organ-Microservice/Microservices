@@ -12,5 +12,9 @@
 
 ### surveys摘要
 [Migrating towards Microservice Architectures: an Industrial Survey]: /survey_1.md
+[Survey on Microservice Architecture - Security, Privacy and Standardization on
+Cloud Computing Environment]: /survey_2.md
 
 * ICSA_2018: [Migrating towards Microservice Architectures: an Industrial Survey]
+* ICSEA_2017: [Survey on Microservice Architecture - Security, Privacy and Standardization on
+Cloud Computing Environment]
