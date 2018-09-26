@@ -2,7 +2,7 @@
 #### 这是一篇关于
 
 
-* Monolithic Architecture 和  Microservice Architecture的对比  
+* 传统独立架构（Monolithic Architecture）和 微服务架构（Microservice Architecture）的对比  
 ![image](https://github.com/Organ-Microservice/Microservices/blob/master/table11.png)
 ![image](https://github.com/Organ-Microservice/Microservices/blob/master/table12.png)
 
@@ -17,7 +17,8 @@ cloud that the application owners do not control, it is
 difficult for them to construct a global view of the entire
 application [10].
 
-* 微服务对云计算下隐私安全的解决方案，it shows the privacymodel adopted in the cloud applications for microservices.  
+* 微服务对云计算下隐私安全的解决方案
+> it shows the privacymodel adopted in the cloud applications for microservices.  
 
 ![image](https://github.com/Organ-Microservice/Microservices/blob/master/table13.png)  
 隐私安全的模型如上图所示，有5个层次：  
