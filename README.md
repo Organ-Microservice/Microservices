@@ -105,6 +105,13 @@ Keywords：
 Microservice, service path selection, cloud computing, video processing
 </br>
 
+* [Functionality-Oriented Microservice Extraction Based on Execution Trace Clustering](https://ieeexplore.ieee.org/document/8456351) 
+> Abstract:
+The main task of microservice extraction is to find which software entities (e.g., methods, classes) should be grouped together from existing monolithic software as candidate microservices, responsible for specific functionalities and evolving independently. Current methods extract microservices by analyzing source code and following the assumption that "classes with strong relation should be in the same service", which originates from software structure analysis. We find that 1) many program behaviors cannot be explicitly reflected in the source code, and 2) the relation at code-level is not equivalent to the same functionality. Thus, we propose a functionality-oriented microservice extraction (FoME) method in this study by monitoring program dynamic behavior and clustering execution traces. Instead of source code analysis, the execution traces of a program are applied to group source code entities that are dedicated to the same functionality. We also construct a systematic measurement of microservice by integrating five complementary metrics of service cohesion and coupling. These metrics measure Functional Independence of microservices. That is, it qualifies whether a microservices can have its own responsibilities independently. In the experiment, our method is compared with three state-of-the-art methods on four open-source projects. The microservice candidates generated using our method present similar functional cohesion to the services produced using the other methods, but have considerably looser coupling measurements (dramatically reducing measurements of IRN and OPN).
+Keywords：
+Software, Measurement, Business, Monitoring, Couplings, Skeleton, Systematics
+</br>
+
 ### 2.会议时间：[ICWS 2017: Honolulu, HI, USA(June 25-30, 2017)](https://dblp.uni-trier.de/db/conf/icws/icws2017.html)
 </br>
 
