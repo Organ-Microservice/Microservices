@@ -2,13 +2,12 @@
 关于微服务的书籍和论文的笔记整理集合
 
 ------
-# 会议论文分类
 
-## 一.会议名称：[Foundations of Software Engineering (SIGSOFT FSE)](https://dblp.uni-trier.de/db/conf/sigsoft/)
+## 一.会议名称：[Foundations of Software Engineering (SIGSOFT FSE)](https://dblp.uni-trier.de/db/conf/sigsoft/)  
 
 ### 1.会议时间: [25. SIGSOFT FSE / 16. ESEC 2017: Paderborn, Germany](https://dblp.uni-trier.de/db/conf/sigsoft/fse2017.html)
 
-#### Proceedings of the 2017 11th Joint Meeting on Foundations of Software Engineering, ESEC/FSE 2017,
+#### 会议主题: Proceedings of the 2017 11th Joint Meeting on Foundations of Software Engineering, ESEC/FSE 2017,
 
 * [Guidelines for adopting frontend architectures and patterns in microservices-based systems.(Paderborn, Germany — September 04 - 08, 2017 )](https://dl.acm.org/citation.cfm?doid=3106237.3117775) 
 > Abstract:
@@ -17,7 +16,7 @@ Microservice-based systems enable the independent development, deployment, and s
 
 
 
-## 二.会议名称：[International Conference on Software Engineering (ICSE)](https://dblp.uni-trier.de/db/conf/icse/)
+## 二.会议名称：[International Conference on Software Engineering (ICSE)](https://dblp.uni-trier.de/db/conf/icse/)  
 
 ### 1.会议时间：[ICSE 2018: Gothenburg, Sweden - Companion Volume（May 27 - June 03, 2018 ）](https://dblp.uni-trier.de/db/conf/icse/icse2018c.html)
 
@@ -48,7 +47,7 @@ Enterprise software needs to be customizable, and the customization needs from a
 Over the decades, a variety of software development processes have been proposed, each with their own advantages and disadvantages. It is however widely accepted that there is no single process that is perfectly suited to all settings, thus a software process should be molded to the needs of its situational context. In previous work, we have consolidated a substantial body of related research into an initial reference framework of the situational factors affecting the software development process. Practitioners can consult this framework in order to profile their context, a step necessary for effective software process decision making. In this paper, we report on the findings from a case study involving process discovery in a small but successful and growing software development firm. In this organization, which has a focus on continuous software evolution and delivery, we also applied the situational factors reference framework, finding that context is a complex and key informant for software process decisions. Studies of this type highlight the role of situational context in software process definition and evolution, and they raise awareness not just of the importance of situational context, but also of the complexity surrounding software process contexts, a complexity which may not be fully appreciated in all software development settings.
 
 
-## 三.会议名称：[International Conference on Service Oriented Computing(ICSOC)](https://dblp.uni-trier.de/db/conf/icsoc/)
+## 三.会议名称：[International Conference on Service Oriented Computing(ICSOC)](https://dblp.uni-trier.de/db/conf/icsoc/)  
 
 ### 1.会议时间：[15th ICSOC 2017: Malaga, Spain（November 13-16, 2017）](https://dblp.uni-trier.de/db/conf/icsoc/icsoc2017.html)
 
@@ -91,9 +90,7 @@ Keywords：
 Couplings ,Clustering algorithms, Computer architecture, Cloud computing, Industries, Tools
 
 
-
-
-## 会议：[Automated Software Engineering(ASE), Volume 25 ,2018](https://dblp.uni-trier.de/db/journals/ase/ase25.html)
+## 四.会议名称：[Automated Software Engineering(ASE), Volume 25 ,2018](https://dblp.uni-trier.de/db/journals/ase/ase25.html)
 
 
 
