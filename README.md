@@ -2,11 +2,13 @@
 关于微服务的书籍和论文的笔记整理集合
 
 ------
+# 会议论文分类
 
+## 一.会议名称：[Foundations of Software Engineering (SIGSOFT FSE)](https://dblp.uni-trier.de/db/conf/sigsoft/)
 
-## 一  会议：[Foundations of Software Engineering (SIGSOFT FSE)](https://dblp.uni-trier.de/db/conf/sigsoft/)
+### 1.会议时间: [25. SIGSOFT FSE / 16. ESEC 2017: Paderborn, Germany](https://dblp.uni-trier.de/db/conf/sigsoft/fse2017.html)
 
-### [25. SIGSOFT FSE / 16. ESEC 2017](https://dblp.uni-trier.de/db/conf/sigsoft/)
+#### Proceedings of the 2017 11th Joint Meeting on Foundations of Software Engineering, ESEC/FSE 2017,
 
 * [Guidelines for adopting frontend architectures and patterns in microservices-based systems.(Paderborn, Germany — September 04 - 08, 2017 )](https://dl.acm.org/citation.cfm?doid=3106237.3117775) 
 > Abstract:
@@ -15,9 +17,9 @@ Microservice-based systems enable the independent development, deployment, and s
 
 
 
-## 会议名称：[International Conference on Software Engineering (ICSE)](https://dblp.uni-trier.de/db/conf/icse/)
+## 二.会议名称：[International Conference on Software Engineering (ICSE)](https://dblp.uni-trier.de/db/conf/icse/)
 
-### 会议时间：[ICSE 2018: Gothenburg, Sweden - Companion Volume（May 27 - June 03, 2018 ）](https://dblp.uni-trier.de/db/conf/icse/icse2018c.html)
+### 1.会议时间：[ICSE 2018: Gothenburg, Sweden - Companion Volume（May 27 - June 03, 2018 ）](https://dblp.uni-trier.de/db/conf/icse/icse2018c.html)
 
 #### 会议主题：Companion Proceeedings
 * [Exploration of academic and industrial evidence about architectural tactics and patterns in microservices. 256-257](https://dl.acm.org/citation.cfm?doid=3183440.3194958) 
@@ -38,7 +40,7 @@ Microservices are quickly becoming an outstanding architectural choice in the se
 > Abstract:
 Enterprise software needs to be customizable, and the customization needs from a customer are often beyond what the software vendor can predict in advance. In the on-premises era, customers do deep customizations beyond vendor's prediction by directly modifying the vendor's source code and then build and operate it on their own premises. When enterprise software is moving to cloud-based multi-tenant SaaS (Software as a Service), it is no longer possible for customers to directly modify the vendor's source code, because the same instance of code is shared by multiple customers at runtime. Therefore, the question is whether it is still possible to do deep customization on multi-tenant SaaS. In this paper, we give an answer to this question with a novel architecture style to realize deep customization of SaaS using intrusive microservices. We evaluate the approach on an open source online commercial system, and discuss the further research questions to make deep customization applicable in practice.
 
-### 会议时间：[39th IEEE/ACM International Conference on Software Engineering: Software Engineering in Society Track, ICSE-SEIS 2017, Bueons Aires, Argentina, May 20-28, 2017.](https://dblp.uni-trier.de/db/conf/ispw/icssp2016.html)
+### 2.会议时间：[39th IEEE/ACM International Conference on Software Engineering: Software Engineering in Society Track, ICSE-SEIS 2017, Bueons Aires, Argentina, May 20-28, 2017.](https://dblp.uni-trier.de/db/conf/ispw/icssp2016.html)
 
 #### 会议主题：Software Engineering in Society Track
 * [Exploration of academic and industrial evidence about architectural tactics and patterns in microservices. 256-257](https://dl.acm.org/citation.cfm?doid=2904354.2904368) 
@@ -46,9 +48,9 @@ Enterprise software needs to be customizable, and the customization needs from a
 Over the decades, a variety of software development processes have been proposed, each with their own advantages and disadvantages. It is however widely accepted that there is no single process that is perfectly suited to all settings, thus a software process should be molded to the needs of its situational context. In previous work, we have consolidated a substantial body of related research into an initial reference framework of the situational factors affecting the software development process. Practitioners can consult this framework in order to profile their context, a step necessary for effective software process decision making. In this paper, we report on the findings from a case study involving process discovery in a small but successful and growing software development firm. In this organization, which has a focus on continuous software evolution and delivery, we also applied the situational factors reference framework, finding that context is a complex and key informant for software process decisions. Studies of this type highlight the role of situational context in software process definition and evolution, and they raise awareness not just of the importance of situational context, but also of the complexity surrounding software process contexts, a complexity which may not be fully appreciated in all software development settings.
 
 
-## 会议名称：[International Conference on Service Oriented Computing(ICSOC)](https://dblp.uni-trier.de/db/conf/icsoc/)
+## 三.会议名称：[International Conference on Service Oriented Computing(ICSOC)](https://dblp.uni-trier.de/db/conf/icsoc/)
 
-### 会议时间：[15th ICSOC 2017: Malaga, Spain（November 13-16, 2017）](https://dblp.uni-trier.de/db/conf/icsoc/icsoc2017.html)
+### 1.会议时间：[15th ICSOC 2017: Malaga, Spain（November 13-16, 2017）](https://dblp.uni-trier.de/db/conf/icsoc/icsoc2017.html)
 
 #### 会议主题：Proceedings
 * [Inferring Calling Relationship Based on External Observation for Microservice Architecture](https://link.springer.com/chapter/10.1007%2F978-3-319-69035-3_16) 
@@ -67,7 +69,7 @@ Microservices architectures are gaining momentum for the development of applicat
 keywords：Microservices architectures, Monolith migration, Multi-layer Fuzzy Cognitive Maps 
 
 
-## 会议名称：[International Conference on Web Services [ICWS]](https://dblp.uni-trier.de/db/conf/icws/)
+## 2.会议名称：[International Conference on Web Services [ICWS]](https://dblp.uni-trier.de/db/conf/icws/)
 
 ### 会议时间：[ICWS 2018: San Francisco, CA, USA(July 2-7, 2018)](https://dblp.uni-trier.de/db/conf/icws/icws2018.html)
 
@@ -78,7 +80,7 @@ Microservice based cloud architecture becomes a promising solution to deal with 
 Keywords：
 Microservice, service path selection, cloud computing, video processing
 
-### 会议时间：[ICWS 2017: Honolulu, HI, USA(June 25-30, 2017)](https://dblp.uni-trier.de/db/conf/icws/icws2017.html)
+### 3.会议时间：[ICWS 2017: Honolulu, HI, USA(June 25-30, 2017)](https://dblp.uni-trier.de/db/conf/icws/icws2017.html)
 
 #### 会议主题： Applications and Big Data and Cloud Services
 * [Extraction of Microservices from Monolithic Software Architectures. 524-531
@@ -90,8 +92,6 @@ Couplings ,Clustering algorithms, Computer architecture, Cloud computing, Indust
 
 
 
-
-# 会议论文分类
 
 ## 会议：[Automated Software Engineering(ASE), Volume 25 ,2018](https://dblp.uni-trier.de/db/journals/ase/ase25.html)
 
