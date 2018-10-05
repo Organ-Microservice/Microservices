@@ -3,29 +3,8 @@
 
 ------
 
-### 《Building MicroServices》摘要
-[Chapter1. Microservices]: /1_microservices   "第一章"
 
-* [Chapter1. Microservices]
-
-------
-
-### surveys摘要
-[Migrating towards Microservice Architectures: an Industrial Survey]: /survey_1.md
-[Survey on Microservice Architecture - Security, Privacy and Standardization on
-Cloud Computing Environment]: /survey_2.md
-
-* ICSA_2018: [Migrating towards Microservice Architectures: an Industrial Survey] （不重要）
-* ICSEA_2017: [Survey on Microservice Architecture - Security, Privacy and Standardization on
-Cloud Computing Environment]
-
-------
-# 会议论文分类
-
-## 会议：[Automated Software Engineering(ASE), Volume 25 ,2018](https://dblp.uni-trier.de/db/journals/ase/ase25.html)
-
-
-## 会议：[Foundations of Software Engineering (SIGSOFT FSE)](https://dblp.uni-trier.de/db/conf/sigsoft/)
+## 一  会议：[Foundations of Software Engineering (SIGSOFT FSE)](https://dblp.uni-trier.de/db/conf/sigsoft/)
 
 ### [25. SIGSOFT FSE / 16. ESEC 2017](https://dblp.uni-trier.de/db/conf/sigsoft/)
 
@@ -112,7 +91,33 @@ Couplings ,Clustering algorithms, Computer architecture, Cloud computing, Indust
 
 
 
+# 会议论文分类
 
+## 会议：[Automated Software Engineering(ASE), Volume 25 ,2018](https://dblp.uni-trier.de/db/journals/ase/ase25.html)
+
+
+
+
+
+
+
+------
+
+### 《Building MicroServices》摘要
+[Chapter1. Microservices]: /1_microservices   "第一章"
+
+* [Chapter1. Microservices]
+
+------
+
+### surveys摘要
+[Migrating towards Microservice Architectures: an Industrial Survey]: /survey_1.md
+[Survey on Microservice Architecture - Security, Privacy and Standardization on
+Cloud Computing Environment]: /survey_2.md
+
+* ICSA_2018: [Migrating towards Microservice Architectures: an Industrial Survey] （不重要）
+* ICSEA_2017: [Survey on Microservice Architecture - Security, Privacy and Standardization on
+Cloud Computing Environment]
 
 
 
