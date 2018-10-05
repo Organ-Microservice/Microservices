@@ -12,10 +12,10 @@
 * [Guidelines for adopting frontend architectures and patterns in microservices-based systems.(Paderborn, Germany — September 04 - 08, 2017 )](https://dl.acm.org/citation.cfm?doid=3106237.3117775) 
 > Abstract:
 Microservice-based systems enable the independent development, deployment, and scalability for separate system components of enterprise applications. A significant aspect during development is the microservice integration in frontends of web, mobile, and desktop applications. One challenge here is the selection of an adequate frontend architecture as well as suitable patterns that satisfy the application requirements. This paper analyses available strategies for organizing and implementing microservices frontends. These approaches are then evaluated based on a quality model and various prototypes of the same application implemented using the distinct approaches. The results of this analysis are generalized to a guideline that supports the selection of a suitable architecture.
-
-
-
-
+  
+  
+  
+  
 ## 二.会议名称：[International Conference on Software Engineering (ICSE)](https://dblp.uni-trier.de/db/conf/icse/)  
 
 ### 1.会议时间：[ICSE 2018: Gothenburg, Sweden - Companion Volume（May 27 - June 03, 2018 ）](https://dblp.uni-trier.de/db/conf/icse/icse2018c.html)
@@ -45,8 +45,10 @@ Enterprise software needs to be customizable, and the customization needs from a
 * [Exploration of academic and industrial evidence about architectural tactics and patterns in microservices. 256-257](https://dl.acm.org/citation.cfm?doid=2904354.2904368) 
 > Abstract:
 Over the decades, a variety of software development processes have been proposed, each with their own advantages and disadvantages. It is however widely accepted that there is no single process that is perfectly suited to all settings, thus a software process should be molded to the needs of its situational context. In previous work, we have consolidated a substantial body of related research into an initial reference framework of the situational factors affecting the software development process. Practitioners can consult this framework in order to profile their context, a step necessary for effective software process decision making. In this paper, we report on the findings from a case study involving process discovery in a small but successful and growing software development firm. In this organization, which has a focus on continuous software evolution and delivery, we also applied the situational factors reference framework, finding that context is a complex and key informant for software process decisions. Studies of this type highlight the role of situational context in software process definition and evolution, and they raise awareness not just of the importance of situational context, but also of the complexity surrounding software process contexts, a complexity which may not be fully appreciated in all software development settings.
-
-
+  
+  
+  
+  
 ## 三.会议名称：[International Conference on Service Oriented Computing(ICSOC)](https://dblp.uni-trier.de/db/conf/icsoc/)  
 
 ### 1.会议时间：[15th ICSOC 2017: Malaga, Spain（November 13-16, 2017）](https://dblp.uni-trier.de/db/conf/icsoc/icsoc2017.html)
@@ -88,8 +90,10 @@ Microservice, service path selection, cloud computing, video processing
 Driven by developments such as mobile computing, cloud computing infrastructure, DevOps and elastic computing, the microservice architectural style has emerged as a new alternative to the monolithic style for designing large software systems. Monolithic legacy applications in industry undergo a migration to microservice-oriented architectures. A key challenge in this context is the extraction of microservices from existing monolithic code bases. While informal migration patterns and techniques exist, there is a lack of formal models and automated support tools in that area. This paper tackles that challenge by presenting a formal microservice extraction model to allow algorithmic recommendation of microservice candidates in a refactoring and migration scenario. The formal model is implemented in a web-based prototype. A performance evaluation demonstrates that the presented approach provides adequate performance. The recommendation quality is evaluated quantitatively by custom microservice-specific metrics. The results show that the produced microservice candidates lower the average development team size down to half of the original size or lower. Furthermore, the size of recommended microservice conforms with microservice sizing reported by empirical surveys and the domain-specific redundancy among different microservices is kept at a low rate.
 Keywords：
 Couplings ,Clustering algorithms, Computer architecture, Cloud computing, Industries, Tools
-
-
+  
+  
+  
+  
 ## 四.会议名称：[Automated Software Engineering(ASE), Volume 25 ,2018](https://dblp.uni-trier.de/db/journals/ase/ase25.html)
 
 
