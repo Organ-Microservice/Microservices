@@ -28,14 +28,12 @@
 #### &emsp;②.会议主题：Companion ProceeedingsNew Ideas and Emerging Results
 
 * [Deep customization of multi-tenant SaaS using intrusive microservices. 97-100](https://dblp.uni-trier.de/db/conf/icse/nier2018.html) 
-</br>
 
 ### 2.会议时间：[39th IEEE/ACM International Conference on Software Engineering: Software Engineering in Society Track, ICSE-SEIS 2017, Bueons Aires, Argentina, May 20-28, 2017.](https://dblp.uni-trier.de/db/conf/ispw/icssp2016.html)
 
-#### &emsp;③.会议主题：Software Engineering in Society Track
+#### &emsp;①.会议主题：Software Engineering in Society Track
 
 * [Exploration of academic and industrial evidence about architectural tactics and patterns in microservices. 256-257](https://dl.acm.org/citation.cfm?doid=2904354.2904368) 
-</br>
 
 ### 3.会议时间：[TechDebt '18 Proceedings of the 2018 International Conference on Technical Debt (May 27 - 28, 2018 )](https://dblp.uni-trier.de/db/conf/ispw/icssp2016.html)
 
@@ -66,7 +64,6 @@
 * [Microservice Based Video Cloud Platform with Performance-Aware Service Path Selection. 306-309](https://ieeexplore.ieee.org/document/8456365) 
 
 * [Functionality-Oriented Microservice Extraction Based on Execution Trace Clustering](https://ieeexplore.ieee.org/document/8456351) 
-</br>
 
 ### 2.会议时间：[ICWS 2017: Honolulu, HI, USA(June 25-30, 2017)](https://dblp.uni-trier.de/db/conf/icws/icws2017.html)
 
