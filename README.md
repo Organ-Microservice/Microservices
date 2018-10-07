@@ -10,12 +10,7 @@
 
 #### &emsp;①.会议主题: Proceedings of the 2017 11th Joint Meeting on Foundations of Software Engineering, ESEC/FSE 2017,
 
-* [Guidelines for adopting frontend architectures and patterns in microservices-based systems.(Paderborn, Germany — September 04 - 08, 2017 )](https://dl.acm.org/citation.cfm?doid=3106237.3117775) 
-> Abstract:
-Microservice-based systems enable the independent development, deployment, and scalability for separate system components of enterprise applications. A significant aspect during development is the microservice integration in frontends of web, mobile, and desktop applications. One challenge here is the selection of an adequate frontend architecture as well as suitable patterns that satisfy the application requirements. This paper analyses available strategies for organizing and implementing microservices frontends. These approaches are then evaluated based on a quality model and various prototypes of the same application implemented using the distinct approaches. The results of this analysis are generalized to a guideline that supports the selection of a suitable architecture.
-</br>
-</br>
-
+* [Guidelines for adopting frontend architectures and patterns in microservices-based systems.(Paderborn, Germany — September 04 - 08, 2017 )](/conference_01.md)  [文章网站链接](https://dl.acm.org/citation.cfm?doid=3106237.3117775)
 ## 二.会议名称：[International Conference on Software Engineering (ICSE)](https://dblp.uni-trier.de/db/conf/icse/)  
 
 ### 1.会议时间：[ICSE 2018: Gothenburg, Sweden - Companion Volume（May 27 - June 03, 2018 ）](https://dblp.unitrier.de/db/conf/icse/icse2018c.html)
