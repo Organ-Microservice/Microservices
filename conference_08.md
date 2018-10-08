@@ -1,14 +1,14 @@
 **Abstract:**  
-In recent years, a web service architecture namely microservices has attracted attention. Although the microservice architecture provides various advantages, it also has the disadvantage of making the root cause analysis of the complicated system. For root cause analysis, it is important to know the calling relationships between services since the service may call the other service and the latency of the called service may be wrong. Therefore, in this paper, we propose a method to infer the calling relationship between the services from communication logs observed from outside of the services.
+In recent years, a web service architecture namely microservices has attracted attention. Although the microservice architecture provides various advantages, it also has the disadvantage of making the root cause analysis of the complicated system. For root cause analysis, it is important to know the calling relationships between services since the service may call the other service and the latency of the called service may be wrong. Therefore, in this paper, we propose a method to infer the calling relationship between the services from communication logs observed from outside of the services.  
 </br>
 **Keywords:**  
 Microservice architecture, Distributed tracing system, Visualization, PaaS, 
 This is a preview of subscription content, log in to check access.
-</br>
+</br>  
 **Authors:**  
 Shinya Kitajima1Email author  
 Naoki Matsuoka1
-</br>
+</br>  
 **References：**  
 1.
 Aguilera, M.K., Mogul, J.C., Wiener, J.L., Reynolds, P., Muthitacharoen, A.: Performance debugging for distributed systems of black boxes. In: 9th ACM Symposium on Operating Systems Principles (SOSP), pp. 74–89 (2003)  
