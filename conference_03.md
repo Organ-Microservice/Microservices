@@ -1,3 +1,4 @@
+# Benchmarking microservice systems for software engineering research. 323-324
 **Abstract:**  
 Despite the prevalence and importance of microservices in industry, there exists limited research on microservices, partly due to lacking a benchmark system that reflects the characteristics of industrial microservice systems. To fill this gap, we conduct a review of literature and open source systems to identify the gap between existing benchmark systems and industrial microservice systems. Based on the results of the gap analysis, we then develop and release a medium-size benchmark system of microservice architecture.
 </br>
