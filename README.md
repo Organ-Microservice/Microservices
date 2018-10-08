@@ -19,7 +19,7 @@
 
 #### &emsp;①.会议主题：Companion Proceeedings
 
-* [Exploration of academic and industrial evidence about architectural tactics and patterns in microservices. 256-257](/conference_02.md)  [（文章网站链接）](https://dblp.uni-trier.de/db/conf/icse/icse2018c.html)
+* [Exploration of academic and industrial evidence about architectural tactics and patterns in microservices. 256-257](/conference_02.md)  [（文章网站链接）](https://dl.acm.org/citation.cfm?doid=3183440.3194958)
 
 * [Benchmarking microservice systems for software engineering research. 323-324（复旦）](/conference_03.md)  [（文章网站链接）](https://dl.acm.org/citation.cfm?doid=3183440.3194991) 
 
