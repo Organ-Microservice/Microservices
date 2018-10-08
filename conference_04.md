@@ -1,3 +1,4 @@
+# A declarative approach for updating distributed microservices.
 **Abstract:**  
 One of the greatest benefits of microservices is to sensitively ease changing applications by splitting these into independently deployable units [5]. Combined with Continuous Delivery (CD) -that aims at delivering quickly and safely every software releases- and Platform as a Service (PaaS) automating application management in a on-demand virtualized environment, the microservice paradigm has become essential to implement agile processes.
 </br>
