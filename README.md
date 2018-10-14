@@ -1,7 +1,7 @@
 # Microservices 
 关于微服务的书籍和论文的笔记整理集合
 
-[Microservices vs SOA](/Microservices vs. SOA.md)  
+[Microservices vs SOA](/MS.md)  
 [术语集合](/术语集合.md)
 ------
 
